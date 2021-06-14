@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="">
+  <a href="https://ajaykumar8511.github.io/BikeLove-showroom-web.github.io/">
     <img src="img\Web_Images\logo.png" alt="Logo" width="200" \>
   </a>
 
